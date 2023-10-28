@@ -4,7 +4,7 @@
 
 ##
 
-[[!discord](https://img.shields.io/badge/Discord-FockingMikkel-7289DA?logo=discord&style=for-the-badge)]
+[![Discord](https://img.shields.io/badge/Discord-FockingMikkel-7289DA?logo=discord&style=for-the-badge)]
 
 ##
 
