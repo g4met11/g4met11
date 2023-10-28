@@ -1,5 +1,5 @@
 <div align="center">
-<img src="(https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif)" width="100"/>
+<img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="100"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&duration=3000&pause=1000&color=CCDBE4&center=true&vCenter=true&width=500&height=60&lines=Hey+I'm+Focking+Mikkel;16+years+old;wannabe+fivem+dev;+Still+Learing+The+Basic)](https://git.io/typing-svg)
 
