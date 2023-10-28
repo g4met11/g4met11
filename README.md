@@ -12,7 +12,7 @@
       
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=g4met11&layout=compact&langs_count=7&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
     
-## Skills:
+## Langues:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="lua" alt="lua" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
